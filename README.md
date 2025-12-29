@@ -1,5 +1,5 @@
 # 💫 About Me:
-Python, SQL, Power BI projects and basic data science use cases like data analysis and dashboards<br><br>Beginner-friendly data science, analytics, or AI projects where I can learn and contribute.<br><br>Advanced data science concepts, machine learning, and real-world project guidance.<br><br>Data Science, AI/ML fundamentals, Python libraries, and data visualization.<br><br>Python basics, SQL queries, data analysis projects, and MCA-related topics.<br><br>I believe consistent practice matters more than knowing everything from day one.
+🔭 I’m currently working on<br>Data Science and AI projects using Python, SQL, Power BI, and basic machine learning.<br>👯 I’m looking to collaborate on<br>Beginner to intermediate AI, ML, and data analytics projects where I can learn and contribute.<br>🤝 I’m looking for help with<br>Improving my machine learning skills, real world datasets, and project best practices.<br>🌱 I’m currently learning<br>Machine Learning, data analysis, and AI concepts step by step.<br>💬 Ask me about<br>Python basics, data analysis projects, Power BI dashboards, or MCA student life.<br>⚡ Fun fact<br>I learn best by building projects and breaking things until they work.
 
 
 ## 🌐 Socials:
